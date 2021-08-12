@@ -1,9 +1,10 @@
 package main
 
 import (
-	"color"
 	"fmt"
 	"os"
+
+	"github.com/joaosoft/color"
 )
 
 func main() {
