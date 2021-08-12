@@ -1,3 +1,3 @@
-module github.com/joaosoft/color
+module color
 
 go 1.16
