@@ -16,13 +16,6 @@ fmt.Fprintf(os.Stdout, fmt.Sprintf("%s joao", color.WithColor("hello", color.For
 * foreground color
 * background color
 
-## Dependecy Management 
->### Dep
-
-Project dependencies are managed using Dep. Read more about [Dep](https://github.com/golang/dep).
-* Install dependencies: `dep ensure`
-* Update dependencies: `dep ensure -update`
-
 >### Go
 ```
 go get github.com/joaosoft/color
@@ -42,6 +35,6 @@ func main() {
 ## Follow me at
 Facebook: https://www.facebook.com/joaosoft
 
-LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-ribeiro-b2775438/
+LinkedIn: https://www.linkedin.com/in/joaosoft
 
 ##### If you have something to add, please let me know joaosoft@gmail.com
